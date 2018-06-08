@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">BLE_chat</string>
+    <string name="server">Server</string>
+    <string name="client">Client</string>
+
+
+    <string name="bluetooth_server">Bluetooth Server</string>
+    <string name="actions">Actions</string>
+    <string name="send_timestamp">Send Timestamp</string>
+    <string name="restart">Restart</string>
+
+
+    <string name="bluetooth_client">Bluetooth Client</string>
+    <string name="scanning">Scanning</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="ble_servers">BLE Servers</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="messages">Messages</string>
+    <string name="send">Send</string>
+    <string name="request_timestamp">Request Timestamp</string>
+
+
+    <string name="logs">Logs</string>
+    <string name="clear">Clear</string>
+
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="ble_not_supported">BLE is not supported</string>
+    <string name="label_data">Data:</string>
+    <string name="label_device_address">Device address:</string>
+    <string name="label_state">State:</string>
+    <string name="no_data">No data</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="title_devices">BLE Device Scan</string>
+    <string name="error_bluetooth_not_supported">Bluetooth not supported.</string>
+
+    <string name="unknown_device">Unknown device</string>
+    <string name="unknown_characteristic">Unknown characteristic</string>
+    <string name="unknown_service">Unknown service</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_connect">Connect</string>
+    <string name="menu_disconnect">Disconnect</string>
+    <string name="menu_scan">Scan</string>
+    <string name="menu_stop">Stop</string>
+</resources>
+
